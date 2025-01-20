@@ -1,0 +1,53 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Target directory
+target/
+
+# Maven and Gradle files
+*.iml
+.idea/
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# IntelliJ IDEA
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Spring Boot specific
+.env
+*.properties
+*.yml
+*.yaml
+
+# Test reports
+test-output/
+surefire-reports/
